@@ -542,7 +542,7 @@ msgid "SEO Analisys"
 msgstr ""
 
 #: sections/front-page-team.php:46
-msgid "Mark Lawrance"
+msgid "Richard Huynh"
 msgstr ""
 
 #: sections/front-page-team.php:46
@@ -554,7 +554,7 @@ msgid "Creative, detail-oriented, always focused."
 msgstr ""
 
 #: sections/front-page-team.php:47
-msgid "Jane  Stenton"
+msgid "Richard Huynh"
 msgstr ""
 
 #: sections/front-page-team.php:47
@@ -566,7 +566,7 @@ msgid "Curious, tech-geeck and gets serious when it comes to work."
 msgstr ""
 
 #: sections/front-page-team.php:48
-msgid "John Smith"
+msgid "Richard Huynh"
 msgstr ""
 
 #: sections/front-page-team.php:48
