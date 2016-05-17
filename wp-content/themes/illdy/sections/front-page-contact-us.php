@@ -7,10 +7,10 @@
  */
 ?>
 <?php
-$contact_bar_facebook_url = get_theme_mod( 'illdy_contact_bar_facebook_url', esc_url( '#' ) );
-$contact_bar_twitter_url = get_theme_mod( 'illdy_contact_bar_twitter_url', esc_url( '#' ) );
-$contact_bar_linkedin_url = get_theme_mod( 'illdy_contact_bar_linkedin_url', esc_url( '#' ) );
-$email = get_theme_mod( 'illdy_email', esc_html__( 'contact@site.com', 'illdy' ) );
+$contact_bar_facebook_url = get_theme_mod( 'illdy_contact_bar_facebook_url', esc_url( 'https://www.facebook.com/richardhuynh3004' ) );
+$contact_bar_twitter_url = get_theme_mod( 'illdy_contact_bar_twitter_url', esc_url( 'https://twitter.com/RichardHuynh09' ) );
+$contact_bar_linkedin_url = get_theme_mod( 'illdy_contact_bar_linkedin_url', esc_url( 'https://www.linkedin.com/in/richard-huynh-06401a106' ) );
+$email = get_theme_mod( 'illdy_email', esc_html__( 'huynhquang3004@gmail.com', 'illdy' ) );
 $phone = get_theme_mod( 'illdy_phone', esc_html__( '(555) 555-5555', 'illdy' ) );
 $address1 = get_theme_mod( 'illdy_address1', esc_html__( 'Street 221B Baker Street, ', 'illdy' ) );
 $address2 = get_theme_mod( 'illdy_address2', esc_html__( 'London, UK', 'illdy' ) );

@@ -264,7 +264,7 @@
     $wp_customize->add_setting( $prefix.'_email',
         array(
             'sanitize_callback'  => 'sanitize_text_field',
-            'default'            => esc_html__( 'contact@site.com', 'illdy' ),
+            'default'            => esc_html__( 'huynhquang3004@gmail.com', 'illdy' ),
             'transport'          => 'postMessage'
         )
     );
