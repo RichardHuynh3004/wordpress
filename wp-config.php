@@ -20,18 +20,18 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('WP_SITEURL', 'http://hldquang.xyz/');
-define('WP_HOME', 'http://hldquang.xyz/');
-define('DB_NAME', 'u490847564_wp');
+define('WP_SITEURL', 'http://vikingstoreonline.com/');
+define('WP_HOME', 'http://vikingstoreonline.com/');
+define('DB_NAME', 'blogWP');
 
 /** MySQL database username */
-define('DB_USER', 'u490847564_huynh');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'I7ZMhPARp2');
+define('DB_PASSWORD', 'qazXSW12345');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.hostinger.in');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
